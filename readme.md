@@ -1,6 +1,6 @@
-# Awesome Decentralized Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome decentralized computing frameworks, resources and technologies.
+> A curated list of awesome web3 frameworks, resources and technologies.
 
 
 ## Contents
